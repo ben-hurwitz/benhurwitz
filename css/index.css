@@ -222,7 +222,7 @@ main{
 }
 
 .instagram:nth-child(1){
-    background-image: url(/assets/ingblue.png);
+    background-image: url(../assets/ingblue.png);
 }
 
 .instagram:nth-child(1):hover{
